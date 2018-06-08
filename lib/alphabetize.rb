@@ -1,6 +1,3 @@
-def alphabetize(arr)
-  # code here
-end
 
 ESPERANTO_ALPHABET = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
